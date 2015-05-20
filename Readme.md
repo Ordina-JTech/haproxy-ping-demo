@@ -3,6 +3,7 @@
 This project contains 3 docker containers, two apache servers and one haproxy server which load balance between these two servers.
 
 The following addresses can be used:
+
 http://[ip]:80     demo website
 
 http://[ip]:81     haproxy admin site
