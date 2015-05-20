@@ -2,7 +2,8 @@
 
 This project contains 3 docker containers, two apache servers and one haproxy server which load balance between these two servers.
 
-The following addresses can be used:
+To build and run all three containers, you can use the build.sh command.
+After the containers are started, the following addresses are available:
 
 http://[ip]:80     demo website
 
