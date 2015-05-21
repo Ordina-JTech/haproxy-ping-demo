@@ -8,5 +8,5 @@ After the containers are started, the following addresses are available:
 
 * http://[ip]:80     demo website
 * http://[ip]:81     haproxy admin site
-* http://[ip]:84     haproxy admin site
-* http://[ip]:85     haproxy admin site
+* http://[ip]:84     direct access to apache1
+* http://[ip]:85     direct access to apache2

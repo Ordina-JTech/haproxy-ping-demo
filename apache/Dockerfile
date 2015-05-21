@@ -1,5 +1,4 @@
 FROM ubuntu:trusty
-MAINTAINER Robbert vd Zon <robbert@vdzon.com>
 
 # Install base packages
 RUN apt-get update && \
