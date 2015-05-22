@@ -3,7 +3,7 @@
 This project contains 3 docker containers, two apache servers and one haproxy server which load balance between these two servers.
 More information about this project can be found in this blog: http://robbertvdzon.blogspot.nl/2015/03/using-haproxy-for-loadbalancing-2-web.html
 
-To build and run all three containers, you can use the `build.sh` command.
+To build and run all three containers, you can use the `run.sh` or `run.bat` command.
 After the containers are started, the following addresses are available:
 
 * http://[ip]:80     demo website
